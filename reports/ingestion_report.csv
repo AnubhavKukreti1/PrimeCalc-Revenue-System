@@ -1,0 +1,10 @@
+table_name,filename,source_rows,status,error
+customers,olist_customers_dataset.csv,99441,SUCCESS,
+geolocation,olist_geolocation_dataset.csv,1000163,SUCCESS,
+order_items,olist_order_items_dataset.csv,112650,SUCCESS,
+order_payments,olist_order_payments_dataset.csv,103886,SUCCESS,
+order_reviews,olist_order_reviews_dataset.csv,99224,SUCCESS,
+orders,olist_orders_dataset.csv,99441,SUCCESS,
+products,olist_products_dataset.csv,32951,SUCCESS,
+sellers,olist_sellers_dataset.csv,3095,SUCCESS,
+category_translation,product_category_name_translation.csv,71,SUCCESS,
